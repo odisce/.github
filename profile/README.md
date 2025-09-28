@@ -19,5 +19,5 @@ Feel free to [**contact us**](https://odisce.github.io/contact.html) for any que
 |[*ProMetIS*](https://github.com/IFB-ElixirFr/ProMetIS)|Multi-omics phenotyping of the LAT and MX2 knockout mice |[Imbert *et al.* (2021) *Sci. Data.*](https://doi.org/10.1038/s41597-021-01095-3)|
 |**Cheminformatics**|||
 |[*Spec2Annot*](https://github.com/odisce/Spec2Annot)|Annotation of MS/MS spectra|Dechaumet *et al.*|
-|[*mineMS2*](https://github.com/odisce/mineMS2)|Annotation of spectral libraries with exact fragmentation patterns|[Delabrière, Gianfrotta *et al.* (2025). *ChemRxiv*](https://doi.org/10.26434/chemrxiv-2025-3c9z1-v3)|
+|[*mineMS2*](https://github.com/odisce/mineMS2)|Annotation of spectral libraries with exact fragmentation patterns|[Delabrière, Gianfrotta *et al.* (2025). *J. Cheminform.*](https://doi.org/10.1186/s13321-025-01051-y)|
 |[*biodb*](https://doi.org/10.18129/B9.bioc.biodb)|A library and a development framework for connecting to chemical and biological databases|Roger *et al.*|
