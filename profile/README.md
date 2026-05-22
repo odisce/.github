@@ -10,7 +10,7 @@ Feel free to [**contact us**](https://odisce.github.io/contact.html) for any que
 |[*proFIA*](https://github.com/odisce/proFIA)|Preprocessing of FIA-HRMS data|[Delabrière *et al.* (2017). *Bioinformatics*](https://doi.org/10.1093/bioinformatics/btx458)|
 |[*ptairMS*](https://doi.org/10.18129/B9.bioc.ptairMS)|Pre-processing PTR-TOF-MS Data|[Roquencourt *et al.* (2022). *Bioinformatics*](https://doi.org/10.1093/bioinformatics/btac031)|
 |[*Spec2Xtract*](https://github.com/odisce/Spec2Xtract)|Pre-processing of MS/MS raw spectra|Dechaumet *et al.*|
-|[*DIANMF*](https://github.com/odisce/DIANMF)|Pre-processing of SWATH DIA data|Karaki *et al.*|
+|[*DIANMF*](https://github.com/odisce/DIANMF)|Pre-processing of SWATH DIA data|[Karaki *et al.* (2024). *EUSIPCO*](https://doi.org/10.23919/EUSIPCO63174.2024.10715181)|
 |**Post-processing**|||
 |[*phenomis*](https://doi.org/10.18129/B9.bioc.phenomis)|Post-processing and univariate analysis of MS data|[Imbert *et al.* (2021) *Sci. Data.*](https://doi.org/10.1038/s41597-021-01095-3)|
 |**Machine learning**|||
